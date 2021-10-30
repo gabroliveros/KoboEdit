@@ -1,6 +1,7 @@
 # KretOs
-Modify the value and status of the records
-Modica el valor y status de los registros de KoboToolbox
+Modify the value and status of the records KoboToolbox.
+
+Modica el valor y status de los registros de KoboToolbox.
 
 Ante todo debes asegurarte de utilizar el servidor correcto en que se encuentra tu formulario, que puede ser:
 
