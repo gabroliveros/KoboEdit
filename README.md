@@ -1,4 +1,4 @@
-# KretOs
+# KoboEdit
 Modify the value and status of the records KoboToolbox.
 
 Modica el valor y status de los registros de KoboToolbox.
